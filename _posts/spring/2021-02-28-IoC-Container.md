@@ -8,6 +8,7 @@ share: true
 related: true
 categories:
 - SPRING
+description: 스프링의 코어 개념인 IoC Container에 대해 알아본다.
 toc: true
 toc_sticky: true
 toc_label: 목차
