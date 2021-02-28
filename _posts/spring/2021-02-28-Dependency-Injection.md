@@ -1,5 +1,5 @@
 ---
-title: DI( Dependecy Injection: 의존성 주입 )이란
+title: "DI( Dependecy Injection: 의존성 주입 )이란"
 layout: single
 author_profile: true
 read_time: true
@@ -12,6 +12,7 @@ toc: true
 toc_sticky: true
 toc_label: 목차
 ---
+
 
 # 0. 이 글의 목적
 
