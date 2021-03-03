@@ -1,7 +1,7 @@
 ---
 title: "DI( Dependecy Injection: 의존성 주입 )이란"
 layout: single
-author_profile: true
+author_profile: false
 read_time: true
 comments: true
 share: true
@@ -15,14 +15,14 @@ toc_label: 목차
 ---
 
 
-# 0. 이 글의 목적
+### 0. 이 글의 목적
 
 - 스프링의 코어 개념 중 하나인 DI이 무엇인지 이해한다.
 - DI의 2가지 방법을 알아본다.
 
 
 
-# 1. DI의 개념
+### 1. DI의 개념
 
 > 1-1. 두 객체 간의 연관관계
 
@@ -111,3 +111,10 @@ Setter Injection은 생성 후에 Setter method를 통해 주입해주는 것이
 > 1-3. DI를 대신 해주는 스프링
 
 프로젝트가 복잡해질수록 DI 또한 많아질 것이고, 그러면 개발자 입장에서는 부담스러울 것이다. 스프링은 이런 부분을 대신 짊어진다. 스프링은 어떤 부품을 어디에 조립할 것인지만 스프링에게 알려준다면 스프링이 DI를 대신해주고 우리는 그 결과물만 사용할 수 있도록 도와준다. 이것이 스프링의 코어 개념 중 하나인 DI이다.
+
+
+
+
+
+#### Reference
+
